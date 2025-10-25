@@ -1,16 +1,33 @@
-# uxpractica
+# UX Práctica - Alejandro Magaña Lopez
 
-A new Flutter project.
+Aplicación Flutter de práctica de diseño de interfaz de usuario con Material Design 3.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Proyecto educativo que implementa una pantalla de login moderna utilizando las mejores prácticas de UX/UI con Flutter y Material Design 3.
 
-A few resources to get you started if this is your first Flutter project:
+## Características
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Pantalla de Login** con diseño Material Design 3
+- Validación de formularios
+- Campo de contraseña con opción de mostrar/ocultar
+- Diseño responsive y centrado
+- Opciones de "Olvidaste tu contraseña" y "Regístrate"
+- Tema personalizado con esquema de colores
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías
+
+- Flutter SDK 3.9.2+
+- Material Design 3
+- Dart
+
+
+
+
+## Objetivo de Aprendizaje
+
+Practicar la implementación de interfaces de usuario siguiendo principios de UX y las guías de Material Design, incluyendo:
+- Diseño de formularios
+- Feedback visual al usuario
+- Navegación y flujo de pantallas
+- Validación de datos

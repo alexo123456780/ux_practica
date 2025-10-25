@@ -78,10 +78,11 @@ class _LoginScreenState extends State<LoginScreen> {
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
                   // Logo o imagen de bienvenida
-                  Icon(
-                    Icons.account_circle,
-                    size: 100,
-                    color: Theme.of(context).colorScheme.primary,
+                  Image.asset(
+                    'images/logo.png',
+                    width: 100,
+                    height: 100,
+                    
                   ),
                   const SizedBox(height: 24),
 
